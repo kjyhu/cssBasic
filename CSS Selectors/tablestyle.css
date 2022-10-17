@@ -1,0 +1,10 @@
+.heading{
+    background-color: #427fef;
+    color: white;
+    flex-direction: row;
+}
+
+.row{
+    color:black;
+    border: #c4dcf3;
+}
